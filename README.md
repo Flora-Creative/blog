@@ -9,7 +9,7 @@ High-level:
 
 ## local preview
 To check it all goes before you push (thumbs up):
-1. `> gem install bundle`  if you haven't already
+1. `> gem install bundler`  if you haven't already
 2. `> bundle install` but probably only if it's your first time
 3. `> bundle exec jekyll serve --watch` and go to town on it.
   - if you want to see drafts add the `--drafts` flag.
